@@ -1,7 +1,3 @@
-# Automatic Algorithm Configuration Reading Group
-
-Computer Science, INF, UFRGS
-
 If you are interested in joining the reading group, please contact [Marcelo de Souza](https://souzamarcelo.github.io) or [Marcus Ritt](http://www.inf.ufrgs.br/~mrpritt). They will inform you about how to participate and the required background.
 
 ## Papers
