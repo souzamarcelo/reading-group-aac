@@ -17,7 +17,7 @@ Aug 31, 2017, 11h00 | Dang et al., **Configuring irace using surrogate configura
 Aug 24, 2017, 11h00 | Branke et al., **Automated Design of Production Scheduling Heuristics: A Review**, IEEE Trans. Evolutionary Computation, 2017. | Marcus Ritt
 Jul 6, 2017, 10h00  | Eggensperger et al., **Efficient Benchmarking of Algorithm Confguration Procedures via Model-Based Surrogates**, 2017. | Artur Brum
 Jun 29, 2017, 10h00 | Pérez-Cáceres et al., **Exploring variable neighborhood search for automatic algorithm configuration**, Electronic Notes in Discrete Mathematics, 2017. | Marcus Ritt
-Jun 22, 2017, 10h00 | Ansótegui et al. **Model-Based Genetic Algorithms for Algorithm Configuration**, IJCAI, 20154. | Marcelo de Souza
+Jun 22, 2017, 10h00 | Ansótegui et al. **Model-Based Genetic Algorithms for Algorithm Configuration**, IJCAI, 2015. | Marcelo de Souza
 Jun 17, 2017, 10h00 | Pérez-Cáceres et al., **An experimental study of adaptive capping in irace**, 2017. | Artur Brum
 Jun 8, 2017, 10h00  | López-Camacho et al., **A unified hyper-heuristic framework for solving bin packing problems**, Expert Systems with Applications, 2014. | Marcus Ritt
 May 25, 2017, 10h00 | Eggenspergeret al., **Pitfalls and best practices in algorithm configuration**, 2017. | Marcelo de Souza
