@@ -4,7 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Oct 2, 2020, 14h00   | Xu et al, [**Automatically Configuring Algorithms for Portfolio-Based Selection**](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1929) | Marcus Ritt
+Oct 2, 2020, 10h00   | Xu et al, [**Automatically Configuring Algorithms for Portfolio-Based Selection**](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1929), AAAI, 2010. | Marcus Ritt
 Apr 30, 2019, 11h30  | Pagnozzi et al., **Automatic design of hybrid stochastic local search algorithms for permutation flowshop problems**, EJOR, 2019. | Artur Brum
 Apr 16, 2019, 11h30  | Pageau et al., **Configuration of a Dynamic MOLS Algorithm for Bi-objective Flowshop Scheduling**, EMO, 2019. | Artur Brum
 Apr 9, 2019, 11h30  | Pérez-Cáceres et al., **Evaluating random forest models for irace**, GECCO, 2017. | Marcus Ritt
