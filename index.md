@@ -21,7 +21,7 @@ Jun 29, 2017, 10h00 | Pérez-Cáceres et al., **Exploring variable neighborhood 
 Jun 22, 2017, 10h00 | Ansótegui et al. **Model-Based Genetic Algorithms for Algorithm Configuration**, IJCAI, 2015. | Marcelo de Souza
 Jun 17, 2017, 10h00 | Pérez-Cáceres et al., **An experimental study of adaptive capping in irace**, 2017. | Artur Brum
 Jun 8, 2017, 10h00  | López-Camacho et al., **A unified hyper-heuristic framework for solving bin packing problems**, Expert Systems with Applications, 2014. | Marcus Ritt
-May 25, 2017, 10h00 | Eggenspergeret al., **Pitfalls and best practices in algorithm configuration**, 2017. | Marcelo de Souza
+May 25, 2017, 10h00 | Eggensperger et al., **Pitfalls and best practices in algorithm configuration**, 2017. | Marcelo de Souza
 
 ## Queue
 
