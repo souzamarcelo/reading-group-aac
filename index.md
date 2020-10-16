@@ -26,8 +26,9 @@ May 25, 2017, 10h00 | Eggensperger et al., **Pitfalls and best practices in algo
 
 ## Queue
 
-+ 2015, Lindauer et al., [**AutoFolio: an automatically configured algorithm selector**](https://dl.acm.org/doi/10.5555/2831071.2831088)
-+ 2020, Pushak, Hoos, [**Golden parameter search: exploiting structure to quickly configure parameters in parallel**](https://dl.acm.org/doi/abs/10.1145/3377930.3390211)
++ 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
++ 2015, Lindauer et al., [AutoFolio: an automatically configured algorithm selector](https://dl.acm.org/doi/10.5555/2831071.2831088)
++ 2020, Pushak, Hoos, [Golden parameter search: exploiting structure to quickly configure parameters in parallel](https://dl.acm.org/doi/abs/10.1145/3377930.3390211)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
 + 2020, [Dynamic algorithm configuration: foundation of a new meta-algorithmic framework](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf)
 + 2016, CHAMP: Creating heuristics via many parameters for online bin packing
