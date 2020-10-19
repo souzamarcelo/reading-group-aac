@@ -4,10 +4,11 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Oct 16, 2020, 10h00   | Presentation: AAC in industial practice | Luciana Buriol
+Oct 30, 2020, 10h00  | Pushak and Hoos, [**Golden parameter search: exploiting structure to quickly configure parameters in parallel**](https://dl.acm.org/doi/abs/10.1145/3377930.3390211) | 
+Oct 16, 2020, 10h00  | Presentation: AAC in industial practice | Luciana Buriol
 Oct 2, 2020, 10h00   | Xu et al., [**Automatically Configuring Algorithms for Portfolio-Based Selection**](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1929), AAAI, 2010. | Marcus Ritt
 Apr 30, 2019, 11h30  | Pagnozzi et al., **Automatic design of hybrid stochastic local search algorithms for permutation flowshop problems**, EJOR, 2019. | Artur Brum
-Apr 16, 2019, 11h30  | Pageau et al., **Configuration of a Dynamic MOLS Algorithm for Bi-objective Flowshop Scheduling**, EMO, 2019. | Artur Brum
+Apr 16, 2019, 11h30 | Pageau et al., **Configuration of a Dynamic MOLS Algorithm for Bi-objective Flowshop Scheduling**, EMO, 2019. | Artur Brum
 Apr 9, 2019, 11h30  | Pérez-Cáceres et al., **Evaluating random forest models for irace**, GECCO, 2017. | Marcus Ritt
 Nov 23, 2017, 11h00 | Blum et al., **Construct, Merge, Solve & Adapt: A new general algorithm for combinatorial optimization**, COR, 2016 | Marcus Ritt
 Oct 26, 2017, 11h30 | Johnson, **A Theoretician's Guide to the Experimental Analysis of Algorithms**, DIMACS, 2001. | Marcelo de Souza
@@ -28,7 +29,6 @@ May 25, 2017, 10h00 | Eggensperger et al., **Pitfalls and best practices in algo
 
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2015, Lindauer et al., [AutoFolio: an automatically configured algorithm selector](https://dl.acm.org/doi/10.5555/2831071.2831088)
-+ 2020, Pushak, Hoos, [Golden parameter search: exploiting structure to quickly configure parameters in parallel](https://dl.acm.org/doi/abs/10.1145/3377930.3390211)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
 + 2020, [Dynamic algorithm configuration: foundation of a new meta-algorithmic framework](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf)
 + 2016, CHAMP: Creating heuristics via many parameters for online bin packing
