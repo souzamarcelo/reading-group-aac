@@ -29,6 +29,7 @@ May 25, 2017, 10h00 | Eggensperger et al., **Pitfalls and best practices in algo
 
 ## Queue
 
++ 2012, Malitsky, Sellmann, [Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation](Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation)
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
 + 2020, [Dynamic algorithm configuration: foundation of a new meta-algorithmic framework](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf)
