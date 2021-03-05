@@ -4,9 +4,9 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Mar 5, 2021,10h00    | Malitsky, Sellmann, [Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation](Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation) | Marcelo de Souza
-Feb 19, 2021, 10h00  | Biedenknapp et al. [Dynamic algorithm configuration: foundation of a new meta-algorithmic framework](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf) | Marcus Ritt
-Dec 10, 2020, 10h00  | Fawcett, Hoos, [**Analysing differences between algorithm configurations through ablation**](http://www.cs.ubc.ca/labs/beta/Projects/Ablation), J. Heur., 2016. | Gabriel Langeloh 
+Mar 5, 2021,10h00    | Malitsky and Sellmann, [**Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation**](https://link.springer.com/chapter/10.1007/978-3-642-29828-8_16), CPAIOR, 2020. | Marcelo de Souza
+Feb 19, 2021, 10h00  | Biedenknapp et al. [**Dynamic algorithm configuration: foundation of a new meta-algorithmic framework**](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf), ECAI, 2020. | Marcus Ritt
+Dec 10, 2020, 10h00  | Fawcett and Hoos, [**Analysing differences between algorithm configurations through ablation**](http://www.cs.ubc.ca/labs/beta/Projects/Ablation), J. Heur., 2016. | Gabriel Langeloh 
 Nov 13, 2020, 10h00  | Lindauer et al., [**AutoFolio: an automatically configured algorithm selector**](https://dl.acm.org/doi/10.5555/2831071.2831088), JAIR, 2015. | Marcus Ritt
 Oct 30, 2020, 10h00  | Pushak and Hoos, [**Golden parameter search: exploiting structure to quickly configure parameters in parallel**](https://dl.acm.org/doi/abs/10.1145/3377930.3390211), GECCO, 2020. | Marcus Ritt
 Oct 16, 2020, 10h00  | Presentation: **AAC in industial practice** | Luciana Buriol
