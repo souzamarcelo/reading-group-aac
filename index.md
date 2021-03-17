@@ -34,5 +34,5 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
 + 2016, CHAMP: Creating heuristics via many parameters for online bin packing
-+ 2017, Configuring algorithm parameter configurators using surrogate configuration benchmarks
++ 2017, Dang et al., [Configuring algorithm parameter configurators using surrogate configuration benchmarks](https://dl.acm.org/doi/10.1145/3071178.3071238)
 + 2016, MO-ParamILS: a multi-objective automatic algorithm configuration framework
