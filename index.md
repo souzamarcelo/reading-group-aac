@@ -4,7 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Apr 2, 2021, 10h00  |  Bergstra abd Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
+Apr 2, 2021, 10h00  |  Bergstra and Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
 Mar 19, 2021, 10h00  |  Franzin, Stützle, [**Towards transferring algorithm configurations across problems**](https://openreview.net/forum?id=bqswrMr-Ed), NeurIPS/LMCA, 2020. | Marcus Ritt
 Mar 5, 2021, 10h00    | Malitsky and Sellmann, [**Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation**](https://link.springer.com/chapter/10.1007/978-3-642-29828-8_16), CPAIOR, 2020. | Marcelo de Souza
 Feb 19, 2021, 10h00  | Biedenknapp et al. [**Dynamic algorithm configuration: foundation of a new meta-algorithmic framework**](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf), ECAI, 2020. | Marcus Ritt
