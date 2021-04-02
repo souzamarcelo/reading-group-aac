@@ -4,6 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
+Apr 16, 2021, 10h00 | Yafrani, et al. [**MATE: A Model-based Algorithm Tuning Engine**](https://arxiv.org/abs/2004.12750) | Marcelo de Souza
 Apr 2, 2021, 10h00  |  Bergstra and Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
 Mar 19, 2021, 10h00  |  Franzin, Stützle, [**Towards transferring algorithm configurations across problems**](https://openreview.net/forum?id=bqswrMr-Ed), NeurIPS/LMCA, 2020. | Marcus Ritt
 Mar 5, 2021, 10h00    | Malitsky and Sellmann, [**Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation**](https://link.springer.com/chapter/10.1007/978-3-642-29828-8_16), CPAIOR, 2020. | Marcelo de Souza
@@ -33,7 +34,6 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
-+ 2021, Mohamed El Yafrani, Marcella Scoczynski, Inkyung Sung, Markus Wagner, Carola Doerr and Peter Nielsen, MATE: A Model-based Algorithm Tuning Engine, GECCO 2021.
 + 2020, Pagnozzi, Stützle, [Evaluating the impact of grammar complexity in automatic algorithm design](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12902)
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
