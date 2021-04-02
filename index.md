@@ -34,6 +34,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ 2020, Yu, Zhu, [**Hyper-Parameter Optimization: A Review of Algorithms and Applications**](https://arxiv.org/abs/2003.05689), Mar 2020.
 + 2020, Pagnozzi, Stützle, [Evaluating the impact of grammar complexity in automatic algorithm design](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12902)
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
