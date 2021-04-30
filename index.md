@@ -4,7 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Apr 30, 2021, 10h00  | Balcan, et al. [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML 2020 | Gabriel Langeloh
+May 14, 2021, 10h00  | Balcan, et al. [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML 2020 | Gabriel Langeloh
 Apr 16, 2021, 10h00  | Yafrani, et al. [**MATE: A Model-based Algorithm Tuning Engine**](https://arxiv.org/abs/2004.12750), GECCO, 2021. | Marcelo de Souza
 Apr 2, 2021, 10h00   | Bergstra and Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
 Mar 19, 2021, 10h00  | Franzin, Stützle, [**Towards transferring algorithm configurations across problems**](https://openreview.net/forum?id=bqswrMr-Ed), NeurIPS/LMCA, 2020. | Marcus Ritt
