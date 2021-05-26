@@ -4,13 +4,13 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-May 28, 2021, 10h00  | Dang, Causmaecker [**Analysis of algorithm components and parameters: Some case studies**](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/17581/typeinst.pdf?sequence=1&isAllowed=y), ICML 2020 | Marcus Ritt
-May 14, 2021, 10h00  | Balcan, et al. [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML 2020 | Gabriel Langeloh
-Apr 16, 2021, 10h00  | Yafrani, et al. [**MATE: A Model-based Algorithm Tuning Engine**](https://arxiv.org/abs/2004.12750), GECCO, 2021. | Marcelo de Souza
+May 28, 2021, 10h00  | Dang and Causmaecker, [**Analysis of algorithm components and parameters: Some case studies**](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/17581/typeinst.pdf?sequence=1&isAllowed=y), ICML 2020 | Marcus Ritt
+May 14, 2021, 10h00  | Balcan et al., [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML 2020 | Gabriel Langeloh
+Apr 16, 2021, 10h00  | Yafrani et al., [**MATE: A Model-based Algorithm Tuning Engine**](https://arxiv.org/abs/2004.12750), GECCO, 2021. | Marcelo de Souza
 Apr 2, 2021, 10h00   | Bergstra and Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
 Mar 19, 2021, 10h00  | Franzin, Stützle, [**Towards transferring algorithm configurations across problems**](https://openreview.net/forum?id=bqswrMr-Ed), NeurIPS/LMCA, 2020. | Marcus Ritt
 Mar 5, 2021, 10h00   | Malitsky and Sellmann, [**Instance-Specific Algorithm Configuration as a Method for Non-Model-Based Portfolio Generation**](https://link.springer.com/chapter/10.1007/978-3-642-29828-8_16), CPAIOR, 2020. | Marcelo de Souza
-Feb 19, 2021, 10h00  | Biedenknapp et al. [**Dynamic algorithm configuration: foundation of a new meta-algorithmic framework**](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf), ECAI, 2020. | Marcus Ritt
+Feb 19, 2021, 10h00  | Biedenknapp et al., [**Dynamic algorithm configuration: foundation of a new meta-algorithmic framework**](https://ml.informatik.uni-freiburg.de/papers/20-ECAI-DAC.pdf), ECAI, 2020. | Marcus Ritt
 Dec 10, 2020, 10h00  | Fawcett and Hoos, [**Analysing differences between algorithm configurations through ablation**](http://www.cs.ubc.ca/labs/beta/Projects/Ablation), J. Heur., 2016. | Gabriel Langeloh
 Nov 13, 2020, 10h00  | Lindauer et al., [**AutoFolio: an automatically configured algorithm selector**](https://dl.acm.org/doi/10.5555/2831071.2831088), JAIR, 2015. | Marcus Ritt
 Oct 30, 2020, 10h00  | Pushak and Hoos, [**Golden parameter search: exploiting structure to quickly configure parameters in parallel**](https://dl.acm.org/doi/abs/10.1145/3377930.3390211), GECCO, 2020. | Marcus Ritt
@@ -36,8 +36,9 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
-+ 2019, Pavelski et al, [**Meta-learning on flowshop using fitness landscape analysis**](https://dl.acm.org/doi/10.1145/3321707.3321846), Jul 2020.
-+ 2020, Yu, Zhu, [**Hyper-Parameter Optimization: A Review of Algorithms and Applications**](https://arxiv.org/abs/2003.05689), Mar 2020.
++ 2021, Ansótegui et al., [Boosting evolutionary algorithm configuration](https://link.springer.com/article/10.1007/s10472-020-09726-y)
++ 2019, Pavelski et al., [Meta-learning on flowshop using fitness landscape analysis](https://dl.acm.org/doi/10.1145/3321707.3321846)
++ 2020, Yu, Zhu, [Hyper-Parameter Optimization: A Review of Algorithms and Applications](https://arxiv.org/abs/2003.05689)
 + 2020, Pagnozzi, Stützle, [Evaluating the impact of grammar complexity in automatic algorithm design](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12902)
 + 2020, Hughes et al., [Automatic Generation of Algorithms for Black-Box Robust Optimisation Problems](https://arxiv.org/abs/2004.07294)
 + 2012, Hydra-MIP: Automated Algorithm Configuration and Selection for Mixed Integer Programming
