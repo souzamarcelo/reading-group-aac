@@ -4,9 +4,10 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Jul  2, 2021, 16h00  | Probst et al., [**Tunability: Importance of Hyperparameters of Machine Learning Algorithms**](https://jmlr.org/papers/v20/18-444.html) | NN
-May 28, 2021, 10h00  | Dang and Causmaecker, [**Analysis of algorithm components and parameters: Some case studies**](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/17581/typeinst.pdf?sequence=1&isAllowed=y), ICML 2020 | Marcus Ritt
-May 14, 2021, 10h00  | Balcan et al., [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML 2020 | Gabriel Langeloh
+Jul  15, 2021, 14h00  | Anastacio et al., [**Exploitation of Default Parameter Values in Automated Algorithm Configuration**](https://ada.liacs.nl/papers/AnaEtAl19.pdf), DSO, IJCAI, 2019. | NN
+Jul  2, 2021, 16h00  | Probst et al., [**Tunability: Importance of Hyperparameters of Machine Learning Algorithms**](https://jmlr.org/papers/v20/18-444.html), J. of ML Res., 2019. | NN
+May 28, 2021, 10h00  | Dang and Causmaecker, [**Analysis of algorithm components and parameters: Some case studies**](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/17581/typeinst.pdf?sequence=1&isAllowed=y), ICML, 2020. | Marcus Ritt
+May 14, 2021, 10h00  | Balcan et al., [**Refined bounds for algorithm configuration: The knife-edge of dual class approximability**](https://arxiv.org/abs/2006.11827), ICML, 2020. | Gabriel Langeloh
 Apr 16, 2021, 10h00  | Yafrani et al., [**MATE: A Model-based Algorithm Tuning Engine**](https://arxiv.org/abs/2004.12750), GECCO, 2021. | Marcelo de Souza
 Apr 2, 2021, 10h00   | Bergstra and Bengio, [**Random Search for Hyper-Parameter Optimization**](https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf), J. of ML Res., 2012. | Alex Gliesch
 Mar 19, 2021, 10h00  | Franzin, Stützle, [**Towards transferring algorithm configurations across problems**](https://openreview.net/forum?id=bqswrMr-Ed), NeurIPS/LMCA, 2020. | Marcus Ritt
