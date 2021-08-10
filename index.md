@@ -4,6 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
+Aug 13, 2021, 14h00  | Pagnozzi and Stützle, [**Evaluating the impact of grammar complexity in automatic algorithm design**](https://onlinelibrary.wiley.com/doi/epdf/10.1111/itor.12902), Int. Trans. in OR, 2020. | Marcelo de Souza
 Jul 30, 2021, 14h00  | Costa, Nannicini, [**RBFOpt: an open-source library for black-box optimization with costly function evaluations**](http://www.optimization-online.org/DB_HTML/2014/09/4538.html) | NN
 Jul 15, 2021, 14h00  | Anastacio et al., [**Exploitation of Default Parameter Values in Automated Algorithm Configuration**](https://ada.liacs.nl/papers/AnaEtAl19.pdf), DSO, IJCAI, 2019. | NN
 Jul  2, 2021, 16h00  | Probst et al., [**Tunability: Importance of Hyperparameters of Machine Learning Algorithms**](https://jmlr.org/papers/v20/18-444.html), J. of ML Res., 2019. | NN
