@@ -4,6 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
+Aug 27, 2021, 14h00  | Liu et al., [** On Performance Estimation in Automatic Algorithm Configuration**](https://ojs.aaai.org/index.php/AAAI/article/view/5618), Proc. AAAI, 2020 | NN
 Aug 13, 2021, 14h00  | Pagnozzi and Stützle, [**Evaluating the impact of grammar complexity in automatic algorithm design**](https://onlinelibrary.wiley.com/doi/epdf/10.1111/itor.12902), Int. Trans. in OR, 2020. | Marcelo de Souza
 Jul 30, 2021, 14h00  | Costa, Nannicini, [**RBFOpt: an open-source library for black-box optimization with costly function evaluations**](http://www.optimization-online.org/DB_HTML/2014/09/4538.html) | NN
 Jul 15, 2021, 14h00  | Anastacio et al., [**Exploitation of Default Parameter Values in Automated Algorithm Configuration**](https://ada.liacs.nl/papers/AnaEtAl19.pdf), DSO, IJCAI, 2019. | NN
@@ -40,7 +41,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
-+ 2021, Ansótegui et al., [Boosting evolutionary algorithm configuration](https://link.springer.com/article/10.1007/s10472-020-09726-y)
++ 2020, Mesaoudi-Paul et al., [Pool-Based Realtime Algorithm Configuration: A Preselection Bandit Approach](https://link.springer.com/chapter/10.1007/978-3-030-53552-0_22)
 + 2019, Pavelski et al., [Meta-learning on flowshop using fitness landscape analysis](https://dl.acm.org/doi/10.1145/3321707.3321846)
 + 2020, Yu, Zhu, [Hyper-Parameter Optimization: A Review of Algorithms and Applications](https://arxiv.org/abs/2003.05689)
 + 2020, Pagnozzi, Stützle, [Evaluating the impact of grammar complexity in automatic algorithm design](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12902)
