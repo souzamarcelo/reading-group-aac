@@ -41,6 +41,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ 2017, Kleinberg et al., [Efficiency Through Procrastination: Approximately Optimal Algorithm Configuration with Runtime Guarantees](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH_JnB6NHyAhVKrpUCHQUBBQcQFnoECAMQAQ&url=https%3A%2F%2Fwww.ijcai.org%2Fproceedings%2F2017%2F0281.pdf&usg=AOvVaw0g4S-nnARk6RUbiqJqKQpQ)
 + 2020, Mesaoudi-Paul et al., [Pool-Based Realtime Algorithm Configuration: A Preselection Bandit Approach](https://link.springer.com/chapter/10.1007/978-3-030-53552-0_22)
 + 2019, Pavelski et al., [Meta-learning on flowshop using fitness landscape analysis](https://dl.acm.org/doi/10.1145/3321707.3321846)
 + 2020, Yu, Zhu, [Hyper-Parameter Optimization: A Review of Algorithms and Applications](https://arxiv.org/abs/2003.05689)
