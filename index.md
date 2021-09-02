@@ -42,6 +42,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ 2021, Ye et al., [Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance](https://arxiv.org/abs/2106.06304)
 + 2017, Kleinberg et al., [Efficiency Through Procrastination: Approximately Optimal Algorithm Configuration with Runtime Guarantees](https://www.ijcai.org/Proceedings/2017/0281.pdf)
 + 2020, Mesaoudi-Paul et al., [Pool-Based Realtime Algorithm Configuration: A Preselection Bandit Approach](https://link.springer.com/chapter/10.1007/978-3-030-53552-0_22)
 + 2019, Pavelski et al., [Meta-learning on flowshop using fitness landscape analysis](https://dl.acm.org/doi/10.1145/3321707.3321846)
