@@ -42,6 +42,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ 2020, Kerschke, et al., [Automated Algorithm Selection: Survey and Perspectives](https://ieeexplore.ieee.org/abstract/document/8660744)
 + 2021, Vieira et al., [iSklearn: Automated Machine Learning with irace](https://ieeexplore.ieee.org/abstract/document/9504696)
 + 2021, Bliek et al., [EXPObench: Benchmarking Surrogate-based Optimisation Algorithms on Expensive Black-box Functions](https://arxiv.org/abs/2106.04618), [Code](https://github.com/AlgTUDelft/ExpensiveOptimBenchmark), 
 + 2020, Liu et al., [sunny-as2: Enhancing SUNNY for Algorithm Selection](https://arxiv.org/abs/2009.03107)
