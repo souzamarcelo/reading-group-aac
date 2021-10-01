@@ -4,6 +4,8 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
+Oct 15, 2021, 14h00 | Vieira et al., [iSklearn: Automated Machine Learning with irace](https://ieeexplore.ieee.org/abstract/document/9504696), 2021 | Gustavo 
+
 Oct 1, 2021, 14h00  | Kleinberg et al. [**Procrastinating with Confidence: Near-Optimal, Anytime, Adaptive Algorithm Configuration**](https://arxiv.org/abs/1902.05454), [Review NIPS](https://papers.nips.cc/paper/2019/file/538a50fb36b97123adc3627cbdb223bf-Reviews.html)  |  Marcelo de Souza
 Aug 27, 2021, 14h00  | Liu et al., [**On Performance Estimation in Automatic Algorithm Configuration**](https://ojs.aaai.org/index.php/AAAI/article/view/5618), Proc. AAAI, 2020 | Marcus Ritt
 Aug 13, 2021, 14h00  | Pagnozzi and Stützle, [**Evaluating the impact of grammar complexity in automatic algorithm design**](https://onlinelibrary.wiley.com/doi/epdf/10.1111/itor.12902), Int. Trans. in OR, 2020. | Marcelo de Souza
@@ -43,7 +45,6 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 ## Queue
 
 + 2020, Kerschke, et al., [Automated Algorithm Selection: Survey and Perspectives](https://ieeexplore.ieee.org/abstract/document/8660744)
-+ 2021, Vieira et al., [iSklearn: Automated Machine Learning with irace](https://ieeexplore.ieee.org/abstract/document/9504696)
 + 2021, Bliek et al., [EXPObench: Benchmarking Surrogate-based Optimisation Algorithms on Expensive Black-box Functions](https://arxiv.org/abs/2106.04618), [Code](https://github.com/AlgTUDelft/ExpensiveOptimBenchmark), 
 + 2020, Liu et al., [sunny-as2: Enhancing SUNNY for Algorithm Selection](https://arxiv.org/abs/2009.03107)
 + 2021, Ye et al., [Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance](https://arxiv.org/abs/2106.06304)
