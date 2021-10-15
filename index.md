@@ -4,7 +4,7 @@ If you are interested in joining the reading group, please contact [Marcelo de S
 
 Date                 | Paper | Presenter
 ---------------------|-------|----------
-Oct 29, 2021, 14h00 | + 2021, Bliek et al., [EXPObench: Benchmarking Surrogate-based Optimisation Algorithms on Expensive Black-box Functions](https://arxiv.org/abs/2106.04618), [Code](https://github.com/AlgTUDelft/ExpensiveOptimBenchmark) | Marcus Ritt
+Oct 29, 2021, 14h00 | Bliek et al., [EXPObench: Benchmarking Surrogate-based Optimisation Algorithms on Expensive Black-box Functions](https://arxiv.org/abs/2106.04618), 2021, [Code](https://github.com/AlgTUDelft/ExpensiveOptimBenchmark) | Marcus Ritt
 Oct 15, 2021, 14h00 | Vieira et al., [**iSklearn: Automated Machine Learning with irace**](https://ieeexplore.ieee.org/abstract/document/9504696), 2021 | Gustavo 
 Oct 1, 2021, 14h00  | Kleinberg et al. [**Procrastinating with Confidence: Near-Optimal, Anytime, Adaptive Algorithm Configuration**](https://arxiv.org/abs/1902.05454), [Review NIPS](https://papers.nips.cc/paper/2019/file/538a50fb36b97123adc3627cbdb223bf-Reviews.html)  |  Marcelo de Souza
 Aug 27, 2021, 14h00  | Liu et al., [**On Performance Estimation in Automatic Algorithm Configuration**](https://ojs.aaai.org/index.php/AAAI/article/view/5618), Proc. AAAI, 2020 | Marcus Ritt
