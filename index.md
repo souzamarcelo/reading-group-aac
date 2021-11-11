@@ -45,6 +45,7 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ 2020, Jiang, Siddiqui, [Hyper-parameter optimization for support vector machines using stochastic gradient descent and dual coordinate descent](https://www.sciencedirect.com/science/article/pii/S2192440621000083)
 + 2020, Kerschke, et al., [Automated Algorithm Selection: Survey and Perspectives](https://ieeexplore.ieee.org/abstract/document/8660744)
 + 2020, Liu et al., [sunny-as2: Enhancing SUNNY for Algorithm Selection](https://arxiv.org/abs/2009.03107)
 + 2021, Ye et al., [Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance](https://arxiv.org/abs/2106.06304)
