@@ -45,6 +45,11 @@ May 25, 2017, 10h00  | Eggensperger et al., **Pitfalls and best practices in alg
 
 ## Queue
 
++ Bergstra, et al., “Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures.” ICML 2013.
++ Bergstra, et al., “[Algorithms for hyper-parameter optimization](https://papers.nips.cc/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html).” NeurIPS. 2011.
+
+## Queue in 2021
+
 + 2020, Jiang, Siddiqui, [Hyper-parameter optimization for support vector machines using stochastic gradient descent and dual coordinate descent](https://www.sciencedirect.com/science/article/pii/S2192440621000083)
 + 2020, Kerschke, et al., [Automated Algorithm Selection: Survey and Perspectives](https://ieeexplore.ieee.org/abstract/document/8660744)
 + 2020, Liu et al., [sunny-as2: Enhancing SUNNY for Algorithm Selection](https://arxiv.org/abs/2009.03107)
